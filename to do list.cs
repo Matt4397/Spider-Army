@@ -3,5 +3,5 @@
 //X make score 
 //X explosion 
 // make timer
-// add better background
+//X add better background
 // make miss counter 
